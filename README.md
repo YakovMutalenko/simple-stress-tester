@@ -29,4 +29,4 @@ The script is an improved version of [Mailgun Team solution](http://blog.mailgun
 ## Authors
 
 * Eugene Zyatev ([eu@zyatev.ru](mailto:eu@zyatev.ru))
-* Mailgun Team ([mailgun.com](mailto:https://www.mailgun.com/))
+* Mailgun Team ([mailgun.com](https://www.mailgun.com/))
